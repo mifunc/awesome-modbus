@@ -44,6 +44,6 @@
 
 | GitHub | Gitee | 微信个人号 | 微信公众号 |
 |--------|-------|-----------|-----------|
-| [https://github.com](https://github.com) | [https://gitee.com](https://gitee.com) | <img src="https://modbus.im/qrcode/wechat-personal.jpg" width="100" alt="扫码添加微信"><br>扫码添加微信 | <img src="https://modbus.im/qrcode/wechat-official.jpg" width="100" alt="扫码关注公众号"><br>扫码关注公众号 |
+| [GitHub](https://github.com/mifunc/awesome-modbus) | [Gitee](https://gitee.com/mifunc/awesome-modbus) | <img src="https://modbus.im/qrcode/wechat-personal.jpg" width="100" alt="扫码添加微信"><br>扫码添加微信 | <img src="https://modbus.im/qrcode/wechat-official.jpg" width="100" alt="扫码关注公众号"><br>扫码关注公众号 |
 
 > 更多工控调试工具详解，请访问 **[modbus.im](https://modbus.im/)**

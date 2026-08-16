@@ -24,6 +24,7 @@
 | **wx-tools** | C++ 跨平台调试工具，串口+TCP 客户端/服务端+WebSocket 整合，统一日志视图 | <a href="https://modbus.im/tools/wx-tools/" target="_blank" rel="noopener">查看详情</a> |
 | **匿名助手** | 嵌入式调试上位机，实时波形+参数在线调整+3D 模型+雷达数据+地图显示 | <a href="https://modbus.im/tools/ano-assistant/" target="_blank" rel="noopener">查看详情</a> |
 
+| **Studio 0** | 免费 Modbus 调试/仿真上位机，RTU/ASCII/TCP 全支持，免代码图形组态 + Python 脚本弱代码 | <a href="https://github.com/EveryIsZero/Studio-0/releases" target="_blank" rel="noopener">下载</a> |
 ## 按场景选择
 
 | 场景 | 推荐工具 |

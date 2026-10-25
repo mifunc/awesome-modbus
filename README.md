@@ -23,6 +23,7 @@
 | **PLC-CommunTools** | 工业上位机通讯类库和调试工具，封装 Modbus TCP/RTU、TCP、串口通讯 | <a href="https://modbus.im/tools/plc-communtools/" target="_blank" rel="noopener">查看详情</a> |
 | **wx-tools** | C++ 跨平台调试工具，串口+TCP 客户端/服务端+WebSocket 整合，统一日志视图 | <a href="https://modbus.im/tools/wx-tools/" target="_blank" rel="noopener">查看详情</a> |
 | **匿名助手** | 嵌入式调试上位机，实时波形+参数在线调整+3D 模型+雷达数据+地图显示 | <a href="https://modbus.im/tools/ano-assistant/" target="_blank" rel="noopener">查看详情</a> |
+| **ProtoForge** | 开源多协议工业设备仿真平台，28 种协议（Modbus TCP/RTU、S7、OPC-UA、EtherCAT/PROFINET、IEC 104/61850、DLT645 等）零硬件测试上位机/网关/SCADA，支持故障注入与合规检测，1363 个自动化测试全绿 | <a href="https://github.com/suoten/ProtoForge" target="_blank" rel="noopener">GitHub</a> |
 
 ## 按场景选择
 
